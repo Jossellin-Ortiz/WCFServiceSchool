@@ -1,0 +1,5 @@
+C:\Users\felix.quezada.nieves\Desktop\Borrador_Temporal\UPC\Distribuidas\TrabajoIndividual\DSD\WCFServiceSchool\WCFGenerales\bin\WCFGenerales.dll.config
+C:\Users\felix.quezada.nieves\Desktop\Borrador_Temporal\UPC\Distribuidas\TrabajoIndividual\DSD\WCFServiceSchool\WCFGenerales\bin\WCFGenerales.dll
+C:\Users\felix.quezada.nieves\Desktop\Borrador_Temporal\UPC\Distribuidas\TrabajoIndividual\DSD\WCFServiceSchool\WCFGenerales\bin\WCFGenerales.pdb
+C:\Users\felix.quezada.nieves\Desktop\Borrador_Temporal\UPC\Distribuidas\TrabajoIndividual\DSD\WCFServiceSchool\WCFGenerales\obj\Debug\WCFGenerales.dll
+C:\Users\felix.quezada.nieves\Desktop\Borrador_Temporal\UPC\Distribuidas\TrabajoIndividual\DSD\WCFServiceSchool\WCFGenerales\obj\Debug\WCFGenerales.pdb

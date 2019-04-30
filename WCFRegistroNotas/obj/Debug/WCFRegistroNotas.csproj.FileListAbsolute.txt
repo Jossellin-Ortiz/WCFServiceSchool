@@ -1,0 +1,5 @@
+C:\Users\felix.quezada.nieves\Desktop\Borrador_Temporal\UPC\Distribuidas\TrabajoIndividual\DSD\WCFServiceSchool\WCFRegistroNotas\bin\WCFRegistroNotas.dll.config
+C:\Users\felix.quezada.nieves\Desktop\Borrador_Temporal\UPC\Distribuidas\TrabajoIndividual\DSD\WCFServiceSchool\WCFRegistroNotas\bin\WCFRegistroNotas.dll
+C:\Users\felix.quezada.nieves\Desktop\Borrador_Temporal\UPC\Distribuidas\TrabajoIndividual\DSD\WCFServiceSchool\WCFRegistroNotas\bin\WCFRegistroNotas.pdb
+C:\Users\felix.quezada.nieves\Desktop\Borrador_Temporal\UPC\Distribuidas\TrabajoIndividual\DSD\WCFServiceSchool\WCFRegistroNotas\obj\Debug\WCFRegistroNotas.dll
+C:\Users\felix.quezada.nieves\Desktop\Borrador_Temporal\UPC\Distribuidas\TrabajoIndividual\DSD\WCFServiceSchool\WCFRegistroNotas\obj\Debug\WCFRegistroNotas.pdb

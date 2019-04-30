@@ -1,0 +1,6 @@
+C:\Users\felix.quezada.nieves\Desktop\Borrador_Temporal\UPC\Distribuidas\TrabajoIndividual\DSD\WCFServiceSchool\WCFTestClient\bin\Debug\WCFTestClient.dll.config
+C:\Users\felix.quezada.nieves\Desktop\Borrador_Temporal\UPC\Distribuidas\TrabajoIndividual\DSD\WCFServiceSchool\WCFTestClient\bin\Debug\WCFTestClient.dll
+C:\Users\felix.quezada.nieves\Desktop\Borrador_Temporal\UPC\Distribuidas\TrabajoIndividual\DSD\WCFServiceSchool\WCFTestClient\bin\Debug\WCFTestClient.pdb
+C:\Users\felix.quezada.nieves\Desktop\Borrador_Temporal\UPC\Distribuidas\TrabajoIndividual\DSD\WCFServiceSchool\WCFTestClient\obj\Debug\WCFTestClient.dll
+C:\Users\felix.quezada.nieves\Desktop\Borrador_Temporal\UPC\Distribuidas\TrabajoIndividual\DSD\WCFServiceSchool\WCFTestClient\obj\Debug\WCFTestClient.pdb
+C:\Users\felix.quezada.nieves\Desktop\Borrador_Temporal\UPC\Distribuidas\TrabajoIndividual\DSD\WCFServiceSchool\WCFTestClient\obj\Debug\WCFTestClient.csprojResolveAssemblyReference.cache

@@ -1,0 +1,7 @@
+C:\Users\felix.quezada.nieves\Desktop\Borrador_Temporal\UPC\Distribuidas\TrabajoIndividual\DSD\WCFServiceSchool\WCFReforzamiento\obj\Debug\WCFReforzamiento.csprojResolveAssemblyReference.cache
+C:\Users\felix.quezada.nieves\Desktop\Borrador_Temporal\UPC\Distribuidas\TrabajoIndividual\DSD\WCFServiceSchool\WCFReforzamiento\bin\WCFReforzamiento.dll.config
+C:\Users\felix.quezada.nieves\Desktop\Borrador_Temporal\UPC\Distribuidas\TrabajoIndividual\DSD\WCFServiceSchool\WCFReforzamiento\bin\WCFReforzamiento.dll
+C:\Users\felix.quezada.nieves\Desktop\Borrador_Temporal\UPC\Distribuidas\TrabajoIndividual\DSD\WCFServiceSchool\WCFReforzamiento\bin\WCFReforzamiento.pdb
+C:\Users\felix.quezada.nieves\Desktop\Borrador_Temporal\UPC\Distribuidas\TrabajoIndividual\DSD\WCFServiceSchool\WCFReforzamiento\bin\Oracle.DataAccess.dll
+C:\Users\felix.quezada.nieves\Desktop\Borrador_Temporal\UPC\Distribuidas\TrabajoIndividual\DSD\WCFServiceSchool\WCFReforzamiento\obj\Debug\WCFReforzamiento.dll
+C:\Users\felix.quezada.nieves\Desktop\Borrador_Temporal\UPC\Distribuidas\TrabajoIndividual\DSD\WCFServiceSchool\WCFReforzamiento\obj\Debug\WCFReforzamiento.pdb

@@ -1,0 +1,6 @@
+C:\Users\felix.quezada.nieves\Desktop\Borrador_Temporal\UPC\Distribuidas\TrabajoIndividual\DSD\WCFServiceSchool\WCFServiceSchool\bin\WCFPlanRecuperacion.dll.config
+C:\Users\felix.quezada.nieves\Desktop\Borrador_Temporal\UPC\Distribuidas\TrabajoIndividual\DSD\WCFServiceSchool\WCFServiceSchool\bin\WCFPlanRecuperacion.dll
+C:\Users\felix.quezada.nieves\Desktop\Borrador_Temporal\UPC\Distribuidas\TrabajoIndividual\DSD\WCFServiceSchool\WCFServiceSchool\bin\WCFPlanRecuperacion.pdb
+C:\Users\felix.quezada.nieves\Desktop\Borrador_Temporal\UPC\Distribuidas\TrabajoIndividual\DSD\WCFServiceSchool\WCFServiceSchool\obj\Debug\WCFPlanRecuperacion.dll
+C:\Users\felix.quezada.nieves\Desktop\Borrador_Temporal\UPC\Distribuidas\TrabajoIndividual\DSD\WCFServiceSchool\WCFServiceSchool\obj\Debug\WCFPlanRecuperacion.pdb
+C:\Users\felix.quezada.nieves\Desktop\Borrador_Temporal\UPC\Distribuidas\TrabajoIndividual\DSD\WCFServiceSchool\WCFServiceSchool\obj\Debug\WCFPlanRecuperacion.csprojResolveAssemblyReference.cache
